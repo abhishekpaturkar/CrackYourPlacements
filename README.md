@@ -1,8 +1,16 @@
-# CrackYourInternship
+# CrackYourInternship & CrackYourPlacement Challenge
 
-Welcome to the "CrackYourInternship" repository. This repository contains a collection of LeetCode problems categorized by topics to help you prepare for your internship.
+Excited to announce that I’m taking the #CrackYourInternship and #CrackYourPlacement challenge starting today [19-7-2024] for the next 45-60 days! 💪
 
-## Table of Contents
+Let’s crack this challenge together! 💪🔥
+
+## Connect with Me
+
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/abhishek-paturkar-810359245/)
+- **Twitter**: [TwitterHandle](https://x.com/abbhi_paturkar)
+- **Email**: [Email](mailto:paturkarabhishek03@gmail.com)
+
+## Leetcode Topics
 
 - [Array](#array)
 - [Linked-List](#linked-list)

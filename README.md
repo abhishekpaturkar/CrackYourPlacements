@@ -7,15 +7,15 @@ Let’s crack this challenge together! 💪🔥
 ## Connect with Me
 
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/abhishek-paturkar-810359245/)
-- **Twitter**: [TwitterHandle](https://x.com/abbhi_paturkar)
+- **Twitter**: [TwitterHandle](https://x.com/abhi_paturkar)
 - **Email**: [Email](mailto:paturkarabhishek03@gmail.com)
 
 ## Leetcode Topics
 
 - [Array](#array)
+- [String](#string)
 - [Linked-List](#linked-list)
 - [Stack-and-Queue](#stack-and-queue)
-- [String](#string)
 
 ## Array
 
@@ -37,6 +37,12 @@ Let’s crack this challenge together! 💪🔥
 16. [Three Sums](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/ThreeSums.cpp)
 17. [Two Sums](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/TwoSums.cpp)
 
+## String
+
+1. [Integer To Roman](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/IntegerToRoman.cpp)
+2. [Longest Common Prefix](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/LongestCommonPrefix.cpp)
+3. [Valid Parentheses](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/ValidParenthese.cpp)
+
 ## Linked-List
 
 1. [Convert Binary Number to Integer](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Linked-List/ConvertBinaryNumbertoInterger.cpp)
@@ -53,12 +59,6 @@ Let’s crack this challenge together! 💪🔥
 ## Stack-and-Queue
 
 1. [Queue Using Stack](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/QueueUsingStack.cpp)
-
-## String
-
-1. [Integer To Roman](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/IntegerToRoman.cpp)
-2. [Longest Common Prefix](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/LongestCommonPrefix.cpp)
-3. [Valid Parentheses](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/ValidParenthese.cpp)
 
 ## License
 

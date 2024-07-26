@@ -14,6 +14,7 @@ Let’s crack this challenge together! 💪🔥
 
 - [Array](#array)
 - [String](#string)
+- [Matrix](#matrix)
 - [Linked-List](#linked-list)
 - [Stack-and-Queue](#stack-and-queue)
 
@@ -31,19 +32,22 @@ Let’s crack this challenge together! 💪🔥
 10. [Remove Duplicates From Sorted Array](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/RemoveDuplicatesFromSortedArray.cpp)
 11. [Set Matrix Zeroes](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/SetMatrixZeroes.cpp)
 12. [Sort Colors](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/SortColors.cpp)
-13. [Spiral Matrix](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/SpiralMatrix.cpp)
-14. [Subarray Sum Equals K](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/SubarraySumEqualsK.cpp)
-15. [Subarray Sums Divisible By K](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/SubarraySumsDivisibleByK.cpp)
-16. [Three Sums](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/ThreeSums.cpp)
-17. [Two Sums](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/TwoSums.cpp)
-18. [Best Time To Buy And Sell Stock II](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/BestTimeToBuyAndSellStockII.cpp)
-19. [Maximum Points You can Obtain from Cards](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/MaximumPointsYouCanObtainFromCards.cpp)
+13. [Subarray Sum Equals K](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/SubarraySumEqualsK.cpp)
+14. [Subarray Sums Divisible By K](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/SubarraySumsDivisibleByK.cpp)
+15. [Three Sums](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/ThreeSums.cpp)
+16. [Two Sums](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/TwoSums.cpp)
+17. [Best Time To Buy And Sell Stock II](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/BestTimeToBuyAndSellStockII.cpp)
+18. [Maximum Points You can Obtain from Cards](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/MaximumPointsYouCanObtainFromCards.cpp)
 
 ## String
 
 1. [Integer To Roman](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/IntegerToRoman.cpp)
 2. [Longest Common Prefix](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/LongestCommonPrefix.cpp)
 3. [Valid Parentheses](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/ValidParenthese.cpp)
+
+## Matrix
+
+1. [Spiral Matrix](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Matrix/SpiralMatrix.cpp)
 
 ## Linked-List
 

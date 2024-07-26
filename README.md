@@ -38,6 +38,8 @@ Let’s crack this challenge together! 💪🔥
 16. [Two Sums](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/TwoSums.cpp)
 17. [Best Time To Buy And Sell Stock II](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/BestTimeToBuyAndSellStockII.cpp)
 18. [Maximum Points You can Obtain from Cards](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/MaximumPointsYouCanObtainFromCards.cpp)
+19. [Word Search](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/WordSearch.cpp)
+20. [Jump Game](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/JumpGame.cpp)
 
 ## String
 

@@ -66,7 +66,3 @@ Let’s crack this challenge together! 💪🔥
 ## Stack-and-Queue
 
 1. [Queue Using Stack](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/QueueUsingStack.cpp)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

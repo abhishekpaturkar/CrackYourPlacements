@@ -55,6 +55,7 @@ Let’s crack this challenge together! 💪🔥
 ## Matrix
 
 1. [Spiral Matrix](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Matrix/SpiralMatrix.cpp)
+2. [Find the Number of Islands](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Matrix/FindTheNumberOfIslands.cpp)
 
 ## Linked-List
 

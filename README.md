@@ -49,6 +49,7 @@ Let’s crack this challenge together! 💪🔥
 2. [Longest Common Prefix](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/LongestCommonPrefix.cpp)
 3. [Valid Parentheses](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/ValidParenthese.cpp)
 4. [Print all the Duplicate Character in a String](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/PrintAllTheDuplicateCharactersInAString.cpp)
+5. [Find the Index of the First Occurrence of a Character in a String](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/FindTheIndexOfTheFirstOccurrenceOfACharacterInAString.cpp)
 
 ## Matrix
 

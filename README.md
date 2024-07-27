@@ -41,6 +41,7 @@ Let’s crack this challenge together! 💪🔥
 19. [Word Search](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/WordSearch.cpp)
 20. [Jump Game](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/JumpGame.cpp)
 21. [All Unique Permutations of an Array](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/AllUniquePermutationsOfAnArray.cpp)
+22. [Game of Life](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/GameOfLife.cpp)
 
 ## String
 

@@ -14,6 +14,7 @@ Let’s crack this challenge together! 💪🔥
 
 - [Array](#array)
 - [String](#string)
+- [Mathematical](#mathematical)
 - [Matrix](#matrix)
 - [Linked-List](#linked-list)
 - [Stack-and-Queue](#stack-and-queue)
@@ -52,6 +53,14 @@ Let’s crack this challenge together! 💪🔥
 5. [Find the Index of the First Occurrence of a Character in a String](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/FindTheIndexOfTheFirstOccurrenceOfACharacterInAString.cpp)
 6. [Valid Palindrome II](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/ValidPalindromeII.cpp)
 7. [Basic Calculator II](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/BasicCalculatorII.cpp)
+
+## Mathematical
+
+1. [Add Binary](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Mathematical/AddBinary.cpp)
+2. [Maximum Product of Three Numbers](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Mathematical/MaximumProductOfThreeNumbers.cpp)
+3. [Product Array Puzzle](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Mathematical/ProductArrayPuzzle.cpp)
+4. [Excel Sheet Column Title](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Mathematical/ExcelSheetColumnTitle.cpp)
+5. [Minimum Moves to Equal Array Elements](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Mathematical/MinimumMovesToEqualArrayElements.cpp)
 
 ## Matrix
 

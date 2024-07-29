@@ -53,6 +53,7 @@ Let’s crack this challenge together! 💪🔥
 5. [Find the Index of the First Occurrence of a Character in a String](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/FindTheIndexOfTheFirstOccurrenceOfACharacterInAString.cpp)
 6. [Valid Palindrome II](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/ValidPalindromeII.cpp)
 7. [Basic Calculator II](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/BasicCalculatorII.cpp)
+8. [Generate Parentheses](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/GenerateParentheses.cpp)
 
 ## Mathematical
 

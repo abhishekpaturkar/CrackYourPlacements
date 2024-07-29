@@ -54,6 +54,7 @@ Let’s crack this challenge together! 💪🔥
 6. [Valid Palindrome II](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/ValidPalindromeII.cpp)
 7. [Basic Calculator II](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/BasicCalculatorII.cpp)
 8. [Generate Parentheses](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/GenerateParentheses.cpp)
+9. [Simplify Path](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/SimplifyPath.cpp)
 
 ## Mathematical
 

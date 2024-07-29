@@ -57,6 +57,7 @@ Let’s crack this challenge together! 💪🔥
 9. [Simplify Path](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/SimplifyPath.cpp)
 10. [Reverse Words In A String](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/ReverseWordsInAString.cpp)
 11. [Group Anagrams](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/GroupAnagrams.cpp)
+12. [Print Anagrams Together](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/PrintAnagramsTogether.cpp)
 
 ## Mathematical
 

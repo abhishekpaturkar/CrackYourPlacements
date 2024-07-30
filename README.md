@@ -15,6 +15,7 @@ Let’s crack this challenge together! 💪🔥
 - [Array](#array)
 - [String](#string)
 - [Mathematical](#mathematical)
+- [Searching and Sorting](#searching-and-sorting)
 - [Matrix](#matrix)
 - [Linked-List](#linked-list)
 - [Stack-and-Queue](#stack-and-queue)
@@ -66,6 +67,10 @@ Let’s crack this challenge together! 💪🔥
 3. [Product Array Puzzle](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Mathematical/ProductArrayPuzzle.cpp)
 4. [Excel Sheet Column Title](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Mathematical/ExcelSheetColumnTitle.cpp)
 5. [Minimum Moves to Equal Array Elements](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Mathematical/MinimumMovesToEqualArrayElements.cpp)
+
+## Searching-and-Sorting
+
+1. [Ceiling in Sorted Array](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Searching-and-Sorting/CeilingInSortedArray.cpp)
 
 ## Matrix
 

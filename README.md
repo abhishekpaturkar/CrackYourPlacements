@@ -73,6 +73,7 @@ Let’s crack this challenge together! 💪🔥
 1. [Ceiling in Sorted Array](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Searching-and-Sorting/CeilingInSortedArray.cpp)
 2. [Permute Two Arrays Sum Every Pair Greater Than K](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Searching-and-Sorting/PermuteTwoArraysSumEveryPairGreaterThanK.cpp)
 3. [Find Pair Given Difference](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Searching-and-Sorting/FindPairGivenDifference.cpp)
+4. [Permutations in Array](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Searching-and-Sorting/PermutationsInArray.cpp)
 
 ## Matrix
 

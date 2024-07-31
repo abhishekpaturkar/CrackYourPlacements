@@ -76,8 +76,8 @@ Let’s crack this challenge together! 💪🔥
 4. [Permutations in Array](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Searching-and-Sorting/PermutationsInArray.cpp)
 5. [Smallest Positive Missing Number](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Searching-and-Sorting/SmallestPositiveMissingNumber.cpp)
 6. [Check if Reversing a Sub Array make the Array Sorted](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Searching-and-Sorting/CheckIfReversingASubArrayMakeTheArraySorted.cpp)
-
-7 [Radix Sort](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Searching-and-Sorting/RadixSort.cpp)
+7. [Radix Sort](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Searching-and-Sorting/RadixSort.cpp)
+8. [Find Peak Element](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Searching-and-Sorting/FindPeakElement.cpp)
 
 ## Matrix
 

@@ -80,6 +80,7 @@ Let’s crack this challenge together! 💪🔥
 8. [Find Peak Element](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Searching-and-Sorting/FindPeakElement.cpp)
 9. [Allocate Minimum Number of Pages](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Searching-and-Sorting/AllocateMinimumNumberOfPages.cpp)
 10. [Search in Rotated Sorted Array](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Searching-and-Sorting/SearchInRotatedSortedArray.cpp)
+11. [Minimum Swaps to Sort](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Searching-and-Sorting/MinimumSwapsToSort.cpp)
 
 ## Matrix
 

@@ -78,6 +78,7 @@ Let’s crack this challenge together! 💪🔥
 6. [Check if Reversing a Sub Array make the Array Sorted](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Searching-and-Sorting/CheckIfReversingASubArrayMakeTheArraySorted.cpp)
 7. [Radix Sort](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Searching-and-Sorting/RadixSort.cpp)
 8. [Find Peak Element](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Searching-and-Sorting/FindPeakElement.cpp)
+9. [Allocate Minimum Number of Pages](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Searching-and-Sorting/AllocateMinimumNumberOfPages.cpp)
 
 ## Matrix
 

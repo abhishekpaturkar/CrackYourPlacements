@@ -75,6 +75,7 @@ Let’s crack this challenge together! 💪🔥
 3. [Find Pair Given Difference](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Searching-and-Sorting/FindPairGivenDifference.cpp)
 4. [Permutations in Array](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Searching-and-Sorting/PermutationsInArray.cpp)
 5. [Smallest Positive Missing Number](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Searching-and-Sorting/SmallestPositiveMissingNumber.cpp)
+6. [Check if Reversing a Sub Array make the Array Sorted](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Searching-and-Sorting/CheckIfReversingASubArrayMakeTheArraySorted.cpp)
 
 ## Matrix
 

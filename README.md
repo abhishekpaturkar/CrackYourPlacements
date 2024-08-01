@@ -88,6 +88,7 @@ Let’s crack this challenge together! 💪🔥
 2. [Find the Number of Islands](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Matrix/FindTheNumberOfIslands.cpp)
 3. [Rotate Image](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Matrix/RotateImage.cpp)
 4. [Maximum Size Rectangle](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Matrix/MaximumSizeRectangle.cpp)
+5. [Matrix Replacement](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Matrix/MatrixReplacement.cpp)
 
 ## Linked-List
 

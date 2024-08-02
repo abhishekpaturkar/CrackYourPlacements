@@ -105,6 +105,7 @@ Let’s crack this challenge together! 💪🔥
 11. [Sort Linked List 0, 1, 2](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Linked-List/SortLinkedList.cpp)
 12. [Add Two Numbers](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Linked-List/AddTwoNumbers.cpp)
 13. [Sort List](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Linked-List/SortList.cpp)
+14. [Delete Node Having Greeater Value On Right](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Linked-List/DeleteNodeHavingGreaterValueOnRight.cpp)
 
 ## Stack-and-Queue
 

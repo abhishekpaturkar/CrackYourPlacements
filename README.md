@@ -107,6 +107,7 @@ Let’s crack this challenge together! 💪🔥
 13. [Sort List](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Linked-List/SortList.cpp)
 14. [Delete Node Having Greater Value On Right](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Linked-List/DeleteNodeHavingGreaterValueOnRight.cpp)
 15. [Segregate Even and Odd Nodes](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Linked-List/SegregateEvenAndOddNodes.cpp)
+16. [Copy List with Random Pointer](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Linked-List/CopyListWithRandomPointer.cpp)
 
 ## Stack-and-Queue
 

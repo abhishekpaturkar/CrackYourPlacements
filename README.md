@@ -110,6 +110,7 @@ Let’s crack this challenge together! 💪🔥
 16. [Copy List with Random Pointer](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Linked-List/CopyListWithRandomPointer.cpp)
 17. [Remove Nth Node From End of List](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Linked-List/RemoveNthNodeFromEndOfList.cpp)
 18. [Reorder List](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Linked-List/ReorderList.cpp)
+19. [Rearrange List in Zig-Zag Manner](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Linked-List/RearrangeListInZigZagManner.cpp)
 
 ## Stack-and-Queue
 

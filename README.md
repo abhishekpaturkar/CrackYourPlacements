@@ -109,6 +109,7 @@ Let’s crack this challenge together! 💪🔥
 15. [Segregate Even and Odd Nodes](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Linked-List/SegregateEvenAndOddNodes.cpp)
 16. [Copy List with Random Pointer](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Linked-List/CopyListWithRandomPointer.cpp)
 17. [Remove Nth Node From End of List](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Linked-List/RemoveNthNodeFromEndOfList.cpp)
+18. [Reorder List](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Linked-List/ReorderList.cpp)
 
 ## Stack-and-Queue
 

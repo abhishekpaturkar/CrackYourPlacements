@@ -121,3 +121,4 @@ Let’s crack this challenge together! 💪🔥
 5. [Stack and Queue using Deque](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/StackAndQueueUsingDeque.cpp)
 6. [Postfix Expression Evaluation](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/PostfixExpressionEvaluation.cpp)
 7. [Implement Two Stack in an Array](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/ImplementTwoStackInAnArray.cpp)
+8. [Daily Temperatures](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/DailyTemperatures.cpp)

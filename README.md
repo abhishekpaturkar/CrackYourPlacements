@@ -119,3 +119,4 @@ Let’s crack this challenge together! 💪🔥
 3. [Next Greater Element I](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/NextGreaterElement.cpp)
 4. [Backspace String Compare](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/BackspaceStringCompare.cpp)
 5. [Stack and Queue using Deque](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/StackAndQueueUsingDeque.cpp)
+6. [Postfix Expression Evaluation](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/PostfixExpressionEvaluation.cpp)

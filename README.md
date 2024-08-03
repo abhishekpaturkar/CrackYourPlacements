@@ -117,3 +117,4 @@ Let’s crack this challenge together! 💪🔥
 1. [Queue Using Stack](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/QueueUsingStack.cpp)
 2. [Stack Using Queues](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/StackUsingQueues.cpp)
 3. [Next Greater Element I](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/NextGreaterElement.cpp)
+4. [Backspace String Compare](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/BackspaceStringCompare.cpp)

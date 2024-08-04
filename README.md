@@ -125,3 +125,4 @@ Let’s crack this challenge together! 💪🔥
 9. [Minimum Cost Tree From Leaf Values](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/MinimumCostTreeFromLeafValues.cpp)
 10. [Online Stock Span](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/OnlineStockSpan.cpp)
 11. [Rotten Oranges](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/RottenOranges.cpp)
+12. [LRU Cache](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/LRUCache.cpp)

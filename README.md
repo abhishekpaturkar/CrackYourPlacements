@@ -124,3 +124,4 @@ Let’s crack this challenge together! 💪🔥
 8. [Daily Temperatures](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/DailyTemperatures.cpp)
 9. [Minimum Cost Tree From Leaf Values](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/MinimumCostTreeFromLeafValues.cpp)
 10. [Online Stock Span](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/OnlineStockSpan.cpp)
+11. [Rotten Oranges](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/RottenOranges.cpp)

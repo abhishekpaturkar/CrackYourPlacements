@@ -122,3 +122,4 @@ Let’s crack this challenge together! 💪🔥
 6. [Postfix Expression Evaluation](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/PostfixExpressionEvaluation.cpp)
 7. [Implement Two Stack in an Array](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/ImplementTwoStackInAnArray.cpp)
 8. [Daily Temperatures](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/DailyTemperatures.cpp)
+9. [Minimum Cost Tree From Leaf Values](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/MinimumCostTreeFromLeafValues.cpp)

@@ -123,3 +123,4 @@ Let’s crack this challenge together! 💪🔥
 7. [Implement Two Stack in an Array](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/ImplementTwoStackInAnArray.cpp)
 8. [Daily Temperatures](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/DailyTemperatures.cpp)
 9. [Minimum Cost Tree From Leaf Values](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/MinimumCostTreeFromLeafValues.cpp)
+10. [Online Stock Span](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/OnlineStockSpan.cpp)

@@ -129,3 +129,4 @@ Let’s crack this challenge together! 💪🔥
 13. [Circular Tour](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/CircularTour.cpp)
 14. [Sum of Subarray Minimums](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/SumOfSubarrayMinimums.cpp)
 15. [Evaluate Reverse Polish Notation](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/EvaluateReversePolishNotation.cpp)
+16. [The Celebrity Problem](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/TheCelebrityProblem.cpp)

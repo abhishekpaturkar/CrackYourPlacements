@@ -127,3 +127,4 @@ Let’s crack this challenge together! 💪🔥
 11. [Rotten Oranges](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/RottenOranges.cpp)
 12. [LRU Cache](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/LRUCache.cpp)
 13. [Circular Tour](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/CircularTour.cpp)
+14. [Sum of Subarray Minimums](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/SumOfSubarrayMinimums.cpp)

@@ -138,3 +138,4 @@ Let’s crack this challenge together! 💪🔥
 2. [Invert Binary Tree](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/InvertBinaryTree.cpp)
 3. [Subtree of Another Tree](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/SubtreeOfAnotherTree.cpp)
 4. [Range Sum of BST](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/RangeSumOfBST.cpp)
+5. [Symmetric Tree](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/SymmetricTree.cpp)

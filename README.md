@@ -19,6 +19,7 @@ Let’s crack this challenge together! 💪🔥
 - [Matrix](#matrix)
 - [Linked-List](#linked-list)
 - [Stack-and-Queue](#stack-and-queue)
+- [Tree](#tree)
 
 ## Array
 
@@ -131,3 +132,6 @@ Let’s crack this challenge together! 💪🔥
 14. [Sum of Subarray Minimums](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/SumOfSubarrayMinimums.cpp)
 15. [Evaluate Reverse Polish Notation](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/EvaluateReversePolishNotation.cpp)
 16. [The Celebrity Problem](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/TheCelebrityProblem.cpp)
+
+## Tree
+1. [Diameter of Binary Tree](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/DiameterOfBinaryTree.cpp)

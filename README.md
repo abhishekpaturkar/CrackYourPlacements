@@ -140,3 +140,4 @@ Let’s crack this challenge together! 💪🔥
 4. [Range Sum of BST](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/RangeSumOfBST.cpp)
 5. [Symmetric Tree](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/SymmetricTree.cpp)
 6. [Convert Sorted Array to Binary Search Tree](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/ConvertSortedArrayToBinarySearchTree.cpp)
+7. [Merge Two Binary Trees](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/MergeTwoBinaryTrees.cpp)

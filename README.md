@@ -142,3 +142,4 @@ Let’s crack this challenge together! 💪🔥
 6. [Convert Sorted Array to Binary Search Tree](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/ConvertSortedArrayToBinarySearchTree.cpp)
 7. [Merge Two Binary Trees](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/MergeTwoBinaryTrees.cpp)
 8. [Maximum Depth of Binary Tree](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/MaximumDepthOfBinaryTree.cpp)
+9. [Binary Tree Paths](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/BinaryTreePaths.cpp)

@@ -134,6 +134,7 @@ Let’s crack this challenge together! 💪🔥
 16. [The Celebrity Problem](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/TheCelebrityProblem.cpp)
 
 ## Tree
+
 1. [Diameter of Binary Tree](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/DiameterOfBinaryTree.cpp)
 2. [Invert Binary Tree](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/InvertBinaryTree.cpp)
 3. [Subtree of Another Tree](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/SubtreeOfAnotherTree.cpp)
@@ -144,3 +145,4 @@ Let’s crack this challenge together! 💪🔥
 8. [Maximum Depth of Binary Tree](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/MaximumDepthOfBinaryTree.cpp)
 9. [Binary Tree Paths](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/BinaryTreePaths.cpp)
 10. [Same Tree](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/SameTree.cpp)
+11. [Lowest Common Ancestor of BST](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/LowestCommonAncestorOfBST.cpp)

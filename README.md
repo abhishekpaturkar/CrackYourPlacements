@@ -148,3 +148,4 @@ Let’s crack this challenge together! 💪🔥
 11. [Lowest Common Ancestor of BST](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/LowestCommonAncestorOfBST.cpp)
 12. [Path Sum](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/PathSum.cpp)
 13. [Minimum Absolute Difference in BST](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/MinimumAbsoluteDifferenceInBST.cpp)
+14. [Sum of Left Leaves](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/SumOfLeftLeaves.cpp)

@@ -146,3 +146,4 @@ Let’s crack this challenge together! 💪🔥
 9. [Binary Tree Paths](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/BinaryTreePaths.cpp)
 10. [Same Tree](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/SameTree.cpp)
 11. [Lowest Common Ancestor of BST](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/LowestCommonAncestorOfBST.cpp)
+12. [Path Sum](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/PathSum.cpp)

@@ -154,3 +154,4 @@ Let’s crack this challenge together! 💪🔥
 17. [Predecessor and Successor](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/PredecessorAndSuccessor.cpp)
 18. [Binary Search Tree Iterator](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/BinarySearchTreeIterator.cpp)
 19. [BST Dead End](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/BSTDeadEnd.cpp)
+20. [Unique Binary Search Tree II](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/UniqueBinarySearchTreeII.cpp)

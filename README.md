@@ -156,3 +156,4 @@ Let’s crack this challenge together! 💪🔥
 19. [BST Dead End](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/BSTDeadEnd.cpp)
 20. [Unique Binary Search Tree II](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/UniqueBinarySearchTreeII.cpp)
 21. [All Nodes Distance K in Binary Tree](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/AllNodesDistanceKInBinaryTree.cpp)
+22. [Validate BST]()

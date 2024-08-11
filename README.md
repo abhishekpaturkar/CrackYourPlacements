@@ -160,3 +160,4 @@ Let’s crack this challenge together! 💪🔥
 23. [Path Sum III](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/ValidateBST.cpp)
 24. [Binary Tree Right Side View](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/BinaryTreeRightSideView.cpp)
 25. [Level Order Traversal](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/LevelOrderTraversal.cpp)
+26. [Preorder BST](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/PreorderBST.cpp)

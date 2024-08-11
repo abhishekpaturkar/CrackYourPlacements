@@ -157,4 +157,5 @@ Let’s crack this challenge together! 💪🔥
 20. [Unique Binary Search Tree II](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/UniqueBinarySearchTreeII.cpp)
 21. [All Nodes Distance K in Binary Tree](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/AllNodesDistanceKInBinaryTree.cpp)
 22. [Validate BST](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/ValidateBST.cpp)
-23. [Path Sum III]()
+23. [Path Sum III](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/ValidateBST.cpp)
+24. [Binary Tree Right Side View](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/BinaryTreeRightSideView.cpp)

@@ -114,6 +114,7 @@ Let’s crack this challenge together! 💪🔥
 18. [Reorder List](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Linked-List/ReorderList.cpp)
 19. [Rearrange List in Zig-Zag Manner](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Linked-List/RearrangeListInZigZagManner.cpp)
 20. [Add Two Numbers II](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Linked-List/AddTwoNumbersII.cpp)
+21. [Reverse Linked List II](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Linked-List/ReverseLinkedListII.cpp)
 
 ## Stack-and-Queue
 

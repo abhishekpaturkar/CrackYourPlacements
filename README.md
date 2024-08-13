@@ -120,6 +120,7 @@ Let’s crack this challenge together! 💪🔥
 24. [Partition List](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Linked-List/PartitionList.cpp)
 25. [LL in Zig-Zag Manner](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Linked-List/LLInZigZagManner.cpp)
 26. [Merge k Sorted Lists](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Linked-List/MergeKSortedLists.cpp)
+27. [Flatten List](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Linked-List/FlattenList.cpp)
 
 ## Stack-and-Queue
 

@@ -171,3 +171,4 @@ Let’s crack this challenge together! 💪🔥
 26. [Preorder BST](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/PreorderBST.cpp)
 27. [BT from Pre and Post order](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/BTFromPrePostOrder.cpp)
 28. [Unique Binary Search Tree II](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/UniqueBinarySearchTreeII.cpp)
+29. [Recover BST](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/RecoverBST.cpp)

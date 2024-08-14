@@ -162,7 +162,7 @@ Let’s crack this challenge together! 💪🔥
 17. [Predecessor and Successor](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/PredecessorAndSuccessor.cpp)
 18. [Binary Search Tree Iterator](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/BinarySearchTreeIterator.cpp)
 19. [BST Dead End](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/BSTDeadEnd.cpp)
-20. [Unique Binary Search Tree II](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/UniqueBinarySearchTreeII.cpp)
+20. [Unique Binary Search Tree](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/UniqueBinarySearchTree.cpp)
 21. [All Nodes Distance K in Binary Tree](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/AllNodesDistanceKInBinaryTree.cpp)
 22. [Validate BST](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/ValidateBST.cpp)
 23. [Path Sum III](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/ValidateBST.cpp)
@@ -170,3 +170,4 @@ Let’s crack this challenge together! 💪🔥
 25. [Level Order Traversal](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/LevelOrderTraversal.cpp)
 26. [Preorder BST](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/PreorderBST.cpp)
 27. [BT from Pre and Post order](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/BTFromPrePostOrder.cpp)
+28. [Unique Binary Search Tree II](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/UniqueBinarySearchTreeII.cpp)

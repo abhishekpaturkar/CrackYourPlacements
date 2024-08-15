@@ -176,3 +176,4 @@ Let’s crack this challenge together! 💪🔥
 31. [Populating Next Right](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/PopulatingNextRight.cpp)
 32. [Flatten BT To LL](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/FlattenBTToLL.cpp)
 33. [Maximum Width of Binary Tree](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/MaximumWidthOfBinaryTree.cpp)
+34. [Kth Smallest Element in BST](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/KthSmallestElementInBST.cpp)

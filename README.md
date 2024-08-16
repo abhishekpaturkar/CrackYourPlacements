@@ -177,3 +177,4 @@ Let’s crack this challenge together! 💪🔥
 32. [Flatten BT To LL](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/FlattenBTToLL.cpp)
 33. [Maximum Width of Binary Tree](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/MaximumWidthOfBinaryTree.cpp)
 34. [Kth Smallest Element in BST](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/KthSmallestElementInBST.cpp)
+35. [Median of BST](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/MedianOfBST.cpp)

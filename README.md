@@ -180,3 +180,4 @@ Let’s crack this challenge together! 💪🔥
 35. [Median of BST](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/MedianOfBST.cpp)
 36. [Largest BST](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/LargestBST.cpp)
 37. [BT Zig-zag Level Order Traversal](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/BTZigZagLevelOrderTraversal.cpp)
+38. [BT from Preorder Traversal](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/BTFromPreorderTraversal.cpp)

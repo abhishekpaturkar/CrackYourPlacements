@@ -141,6 +141,7 @@ Let’s crack this challenge together! 💪🔥
 15. [Evaluate Reverse Polish Notation](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/EvaluateReversePolishNotation.cpp)
 16. [The Celebrity Problem](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/TheCelebrityProblem.cpp)
 17. [Remove All Adjacent Duplicates In String](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/RemoveAllAdjacentDuplicatesInString.cpp)
+18. [Flatten Nested List Iterator](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Stack-and-Queue/FlattenNestedListIterator.cpp)
 
 ## Tree
 

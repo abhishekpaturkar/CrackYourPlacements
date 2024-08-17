@@ -188,3 +188,4 @@ Let’s crack this challenge together! 💪🔥
 ## Graph
 
 1. [BFS of Graph](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Graph/BFSofGraph.cpp)
+2. [DFS of Graph](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Graph/DFSofGraph.cpp)

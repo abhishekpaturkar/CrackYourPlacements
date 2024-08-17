@@ -20,6 +20,7 @@ Let’s crack this challenge together! 💪🔥
 - [Linked-List](#linked-list)
 - [Stack-and-Queue](#stack-and-queue)
 - [Tree](#tree)
+- [Graph](#graph)
 
 ## Array
 
@@ -183,3 +184,7 @@ Let’s crack this challenge together! 💪🔥
 36. [Largest BST](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/LargestBST.cpp)
 37. [BT Zig-zag Level Order Traversal](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/BTZigZagLevelOrderTraversal.cpp)
 38. [BT from Preorder Traversal](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Tree/BTFromPreorderTraversal.cpp)
+
+## Graph
+
+1. [BFS of Graph](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Graph/BFSofGraph.cpp)

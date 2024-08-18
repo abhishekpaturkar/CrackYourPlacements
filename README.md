@@ -190,3 +190,4 @@ Let’s crack this challenge together! 💪🔥
 1. [BFS of Graph](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Graph/BFSofGraph.cpp)
 2. [DFS of Graph](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Graph/DFSofGraph.cpp)
 3. [Flood Fill](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Graph/FloodFill.cpp)
+4. [Number of Islands](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Graph/NumberOfIslands.cpp)

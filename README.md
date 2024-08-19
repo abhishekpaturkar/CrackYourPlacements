@@ -196,3 +196,4 @@ Let’s crack this challenge together! 💪🔥
 7. [Rat in Maze Problem I](https://https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Graph/RatInMazeProblemI.cpp)
 8. [Steps by Knight](htthttps://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Graph/StepsByKnight.cpp)
 9. [Decode String](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Graph/DecodeString.cpp)
+10. [Shortest Bridge](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Graph/ShortestBridge.cpp)

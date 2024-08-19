@@ -194,3 +194,4 @@ Let’s crack this challenge together! 💪🔥
 5. [Detect Cycle in Undirected Graph](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Graph/DetectCycleInUndirectedGraph.cpp)
 6. [Detect Cycle in Directed Graph](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Graph/DetectCycleInDirectedGraph.cpp)
 7. [Rat in Maze Problem I](https://https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Graph/RatInMazeProblemI.cpp)
+8. [Steps by Knight](htthttps://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Graph/StepsByKnight.cpp)

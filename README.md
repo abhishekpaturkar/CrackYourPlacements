@@ -197,3 +197,4 @@ Let’s crack this challenge together! 💪🔥
 8. [Steps by Knight](htthttps://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Graph/StepsByKnight.cpp)
 9. [Decode String](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Graph/DecodeString.cpp)
 10. [Shortest Bridge](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Graph/ShortestBridge.cpp)
+11. [Number of Operations to make Network Connected](hthttps://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Graph/NumberOfOperationsToMakeNetworkConnected.cpp)

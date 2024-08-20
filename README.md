@@ -199,3 +199,4 @@ Let’s crack this challenge together! 💪🔥
 10. [Shortest Bridge](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Graph/ShortestBridge.cpp)
 11. [Number of Operations to make Network Connected](hthttps://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Graph/NumberOfOperationsToMakeNetworkConnected.cpp)
 12. [Find Eventual Safe States](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Graph/FindEventualSafeStates.cpp)
+13. [Strongly Connected Components](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Graph/StronglyConnectedComponents.cpp)

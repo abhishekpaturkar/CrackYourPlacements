@@ -198,3 +198,4 @@ Let’s crack this challenge together! 💪🔥
 9. [Decode String](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Graph/DecodeString.cpp)
 10. [Shortest Bridge](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Graph/ShortestBridge.cpp)
 11. [Number of Operations to make Network Connected](hthttps://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Graph/NumberOfOperationsToMakeNetworkConnected.cpp)
+12. [Find Eventual Safe States](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Graph/FindEventualSafeStates.cpp)

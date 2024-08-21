@@ -48,6 +48,7 @@ Let’s crack this challenge together! 💪🔥
 22. [Game of Life](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/GameOfLife.cpp)
 23. [Longest Repeating Character Replacement](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/LongestRepeatingCharacterReplacement.cpp)
 24. [Reverse Pairs](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/ReversePairs.cpp)
+25. [Max value of Equation](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/MaxValueOfEquation.cpp)
 
 ## String
 

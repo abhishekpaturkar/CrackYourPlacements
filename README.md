@@ -22,7 +22,7 @@ Let’s crack this challenge together! 💪🔥
 - [Tree](#tree)
 - [Graph](#graph)
 
-## Array
+## Array ([Solutions](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array.solution.md))
 
 1. [Best Time To Buy And Sell Stock](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/BeseTimeToBuyAndSellStock.cpp)
 2. [Chocolate Distribution Problem](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/ChocolateDistributionProblem.cpp)
@@ -49,6 +49,7 @@ Let’s crack this challenge together! 💪🔥
 23. [Longest Repeating Character Replacement](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/LongestRepeatingCharacterReplacement.cpp)
 24. [Reverse Pairs](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/ReversePairs.cpp)
 25. [Max value of Equation](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/MaxValueOfEquation.cpp)
+26. [Insert Delete GetRandom O(1) - Duplicates allowed](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/InsertDeleteGetRandom.cpp)
 
 ## String
 

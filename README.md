@@ -47,6 +47,7 @@ Let’s crack this challenge together! 💪🔥
 21. [All Unique Permutations of an Array](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/AllUniquePermutationsOfAnArray.cpp)
 22. [Game of Life](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/GameOfLife.cpp)
 23. [Longest Repeating Character Replacement](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/LongestRepeatingCharacterReplacement.cpp)
+24. [Reverse Pairs](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/ReversePairs.cpp)
 
 ## String
 

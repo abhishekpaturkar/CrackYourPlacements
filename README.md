@@ -50,6 +50,7 @@ Let’s crack this challenge together! 💪🔥
 24. [Reverse Pairs](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/ReversePairs.cpp)
 25. [Max value of Equation](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/MaxValueOfEquation.cpp)
 26. [Insert Delete GetRandom O(1) - Duplicates allowed](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/InsertDeleteGetRandom.cpp)
+27. [Largest Rectangle in Histogram](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/LargestRectangleInHistogram.cpp)
 
 ## String
 

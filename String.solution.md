@@ -202,3 +202,17 @@ Space Complexity: O(NK)
 
 Time Complexity: O(n+m)
 Space Complexity: O(1)
+
+## 14. Smallest window in a string containing all the characters of another string
+
+### Optimal Solution:
+
+1. Create a frequency map for characters in string p
+2. Initialize two pointers, left and right, at the start of string s
+3. Move the right pointer to include characters in the window
+4. When all characters of p are included, move the left pointer to minimize the window
+5. Keep track of the minimum window size and starting index
+6. Return the smallest window or "-1" if no valid window exists
+
+Time Complexity: O(n), where n is the length of string s
+Space Complexity: O(1), as we use a fixed-size array for character frequency

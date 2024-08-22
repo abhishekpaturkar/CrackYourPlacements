@@ -52,7 +52,7 @@ Let’s crack this challenge together! 💪🔥
 26. [Insert Delete GetRandom O(1) - Duplicates allowed](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/InsertDeleteGetRandom.cpp)
 27. [Largest Rectangle in Histogram](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/LargestRectangleInHistogram.cpp)
 
-## String
+## String ([Solutions](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String.solution.md))
 
 1. [Integer To Roman](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/IntegerToRoman.cpp)
 2. [Longest Common Prefix](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/LongestCommonPrefix.cpp)
@@ -66,6 +66,7 @@ Let’s crack this challenge together! 💪🔥
 10. [Reverse Words In A String](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/ReverseWordsInAString.cpp)
 11. [Group Anagrams](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/GroupAnagrams.cpp)
 12. [Print Anagrams Together](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/PrintAnagramsTogether.cpp)
+13. [Rabin-Karp Algorithm for Pattern Searching](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/RabinKarpAlgorithmForPatternSearching.cpp)
 
 ## Mathematical
 

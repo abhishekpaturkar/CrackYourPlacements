@@ -254,3 +254,22 @@ Steps for Word Wrap problem:
 
 Time Complexity: O(n^2), where n is the number of words
 Space Complexity: O(n) for memoization array and recursion stack
+
+## 17. Integer to English Words
+
+### Optimal Solution
+Steps for Integer to English Words problem:
+
+1. Handle the special case of zero
+2. Define arrays for words less than twenty and tens places
+3. Create helper functions:
+    a. two_digit: Convert numbers less than 100 to words
+    b. three_digit: Convert numbers less than 1000 to words
+4. Break the number into billions, millions, thousands, and hundreds
+5. Convert each part to words using the helper functions
+6. Combine the parts with appropriate scale words (Billion, Million, Thousand)
+7. Handle spacing between words
+8. Return the final result
+
+Time Complexity: O(1), as the input is limited to 2^31 - 1
+Space Complexity: O(1), as we use a fixed amount of space for arrays and string operations

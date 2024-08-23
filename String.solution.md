@@ -234,3 +234,23 @@ Space Complexity: O(1), as we use a fixed-size array for character frequency
 
 Time Complexity: O(n), where n is the length of the input string
 Space Complexity: O(1), as we use only a constant amount of extra space
+
+## 16. Word Wrap
+
+### Optimal Solution:
+
+Steps for Word Wrap problem:
+
+1. Initialize variables and memoization array
+2. Define recursive function with memoization:
+   a. Handle base case (end of array)
+   b. Check memoized result
+   c. Iterate through words, calculating line length
+   d. Handle last line case
+   e. Calculate cost for non-last lines
+   f. Update minimum cost
+   g. Memoize and return result
+3. Call recursive function with initial parameters
+
+Time Complexity: O(n^2), where n is the number of words
+Space Complexity: O(n) for memoization array and recursion stack

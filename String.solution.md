@@ -216,3 +216,21 @@ Space Complexity: O(1)
 
 Time Complexity: O(n), where n is the length of string s
 Space Complexity: O(1), as we use a fixed-size array for character frequency
+
+## 15. Valid Number
+
+### Optimal Solution:
+
+1. Initialize variables to track decimal point usage and number presence
+2. Handle leading sign (+ or -)
+3. Iterate through the string:
+   a. Check for invalid characters (non-digit, non-decimal point, non-exponent)
+   b. Handle decimal point (ensure only one is used)
+   c. Handle exponent 'e' or 'E':
+   - Ensure a number has been seen before the exponent
+   - Validate the integer after the exponent
+     d. Track number presence
+4. Return true if a valid number was found, false otherwise
+
+Time Complexity: O(n), where n is the length of the input string
+Space Complexity: O(1), as we use only a constant amount of extra space

@@ -68,6 +68,7 @@ Let’s crack this challenge together! 💪🔥
 12. [Print Anagrams Together](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/PrintAnagramsTogether.cpp)
 13. [Rabin-Karp Algorithm for Pattern Searching](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/RabinKarpAlgorithmForPatternSearching.cpp)
 14. [Smallest window in a string containing all the characters of another string](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/SmallestWindow.cpp)
+15. [Valid Number](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/ValidNumber.cpp)
 
 ## Mathematical
 

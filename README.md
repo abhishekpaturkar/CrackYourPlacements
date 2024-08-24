@@ -21,8 +21,9 @@ Let’s crack this challenge together! 💪🔥
 - [Stack-and-Queue](#stack-and-queue)
 - [Tree](#tree)
 - [Graph](#graph)
+- [Dynamic Programming](#dynamic-programming)
 
-## Array ([Solutions](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array.solution.md))
+## Array ([Solutions](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Solutions/Array.solution.md))
 
 1. [Best Time To Buy And Sell Stock](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/BeseTimeToBuyAndSellStock.cpp)
 2. [Chocolate Distribution Problem](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/ChocolateDistributionProblem.cpp)
@@ -52,7 +53,7 @@ Let’s crack this challenge together! 💪🔥
 26. [Insert Delete GetRandom O(1) - Duplicates allowed](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/InsertDeleteGetRandom.cpp)
 27. [Largest Rectangle in Histogram](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Array/LargestRectangleInHistogram.cpp)
 
-## String ([Solutions](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String.solution.md))
+## String ([Solutions](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Solutions/String.solution.md))
 
 1. [Integer To Roman](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/IntegerToRoman.cpp)
 2. [Longest Common Prefix](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/String/LongestCommonPrefix.cpp)
@@ -210,8 +211,9 @@ Let’s crack this challenge together! 💪🔥
 12. [Find Eventual Safe States](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Graph/FindEventualSafeStates.cpp)
 13. [Strongly Connected Components](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Graph/StronglyConnectedComponents.cpp)
 
-## Dynamic Programming
+## Dynamic-Programming
 
 1. [Climbing Stairs](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/ClimbingStairs.cpp)
 2. [Counting Bits](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/CountingBits.cpp)
 3. [Maximum Product Subarray](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/MaximumProductSubarray.cpp)
+4. [Ones and Zeroes](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/OnesAndZeroes.cpp)

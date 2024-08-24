@@ -217,3 +217,4 @@ Let’s crack this challenge together! 💪🔥
 2. [Counting Bits](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/CountingBits.cpp)
 3. [Maximum Product Subarray](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/MaximumProductSubarray.cpp)
 4. [Ones and Zeroes](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/OnesAndZeroes.cpp)
+5. [Knight Dialer](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/KnightDialer.cpp)

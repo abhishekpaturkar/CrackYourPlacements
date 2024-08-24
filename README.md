@@ -209,3 +209,8 @@ Let’s crack this challenge together! 💪🔥
 11. [Number of Operations to make Network Connected](hthttps://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Graph/NumberOfOperationsToMakeNetworkConnected.cpp)
 12. [Find Eventual Safe States](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Graph/FindEventualSafeStates.cpp)
 13. [Strongly Connected Components](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/Graph/StronglyConnectedComponents.cpp)
+
+## Dynamic Programming
+
+1. [Climbing Stairs](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/ClimbingStairs.cpp)
+2. [Counting Bits](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/CountingBits.cpp)

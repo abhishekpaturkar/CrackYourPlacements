@@ -214,3 +214,4 @@ Let’s crack this challenge together! 💪🔥
 
 1. [Climbing Stairs](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/ClimbingStairs.cpp)
 2. [Counting Bits](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/CountingBits.cpp)
+3. [Maximum Product Subarray](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/MaximumProductSubarray.cpp)

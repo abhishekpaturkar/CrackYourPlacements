@@ -219,3 +219,4 @@ Let’s crack this challenge together! 💪🔥
 4. [Ones and Zeroes](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/OnesAndZeroes.cpp)
 5. [Knight Dialer](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/KnightDialer.cpp)
 6. [Maximize the Cut Segments](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/MaximizeTheCutSegments.cpp)
+7. [Unique Paths](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/UniquePaths.cpp)

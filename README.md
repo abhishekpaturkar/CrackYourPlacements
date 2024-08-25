@@ -221,3 +221,4 @@ Let’s crack this challenge together! 💪🔥
 6. [Maximize the Cut Segments](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/MaximizeTheCutSegments.cpp)
 7. [Unique Paths](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/UniquePaths.cpp)
 8. [Minimum Path Sum](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/MinimumPathSum.cpp)
+9. [Coin Change](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/CoinChange.cpp)

@@ -218,3 +218,4 @@ Let’s crack this challenge together! 💪🔥
 3. [Maximum Product Subarray](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/MaximumProductSubarray.cpp)
 4. [Ones and Zeroes](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/OnesAndZeroes.cpp)
 5. [Knight Dialer](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/KnightDialer.cpp)
+6. [Maximize the Cut Segments](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/MaximizeTheCutSegments.cpp)

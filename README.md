@@ -224,3 +224,4 @@ Let’s crack this challenge together! 💪🔥
 9. [Coin Change](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/CoinChange.cpp)
 10. [Decode Ways](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/DecodeWays.cpp)
 11. [Maximum Length of Repeated Subarray](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/MaximumLengthOfRepeatedSubarray.cpp)
+12. [Longest Increasing Subsequence](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/LongestIncreasingSubsequence.cpp)

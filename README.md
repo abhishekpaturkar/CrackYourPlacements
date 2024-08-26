@@ -226,3 +226,4 @@ Let’s crack this challenge together! 💪🔥
 11. [Maximum Length of Repeated Subarray](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/MaximumLengthOfRepeatedSubarray.cpp)
 12. [Longest Increasing Subsequence](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/LongestIncreasingSubsequence.cpp)
 13. [Longest Common Substring](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/LongestCommonSubstring.cpp)
+14. [Count Square Submatrices with All Ones](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/CountSquareSubmatricesWithAllOnes.cpp)

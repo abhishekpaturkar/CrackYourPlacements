@@ -229,3 +229,4 @@ Let’s crack this challenge together! 💪🔥
 14. [Count Square Submatrices with All Ones](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/CountSquareSubmatricesWithAllOnes.cpp)
 15. [Maximal Square](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/MaximalSquare.cpp)
 16. [Mobile numeric keypad](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/MobileNumericKeypad.cpp)
+17. [Job Sequencing Problem](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/JobSequencingProblem.cpp)

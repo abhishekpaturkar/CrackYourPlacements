@@ -230,3 +230,4 @@ Let’s crack this challenge together! 💪🔥
 15. [Maximal Square](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/MaximalSquare.cpp)
 16. [Mobile numeric keypad](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/MobileNumericKeypad.cpp)
 17. [Job Sequencing Problem](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/JobSequencingProblem.cpp)
+18. [Delete and Earn](https://github.com/abhishekpaturkar/CrackYourInternship/blob/master/DynamicProgramming/DeleteAndEarn.cpp)
